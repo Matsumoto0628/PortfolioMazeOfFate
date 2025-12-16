@@ -1,2 +1,2 @@
 # PortfolioMazeOfFate
-ポートフォリオ(Unityを用いた2DRPGゲーム)
+ポートフォリオ(javafxを用いた2DRPGゲーム)
